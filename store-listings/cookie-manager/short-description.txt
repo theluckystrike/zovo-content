@@ -1,0 +1,1 @@
+View, edit, and manage Chrome cookies. JWT decode, export JSON. EditThisCookie alternative.

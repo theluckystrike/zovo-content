@@ -1,0 +1,51 @@
+extension,page_type,meta_description,character_count
+cookie-manager,homepage,"View, edit, and manage Chrome cookies with our secure cookie manager. JWT decode, export JSON, no tracking.",89
+cookie-manager,features,"Cookie manager with JWT decode, bulk editing, import/export, and advanced filtering for Chrome developers.",100
+cookie-manager,pricing,"Free cookie manager with premium features. No tracking, no data collection. EditThisCookie alternative.",89
+cookie-manager,comparison,"Compare Zovo Cookie Manager vs EditThisCookie. Better security, more features, actively maintained.",89
+cookie-manager,download,"Download Zovo Cookie Manager for Chrome. Free, secure, no tracking. The best EditThisCookie alternative.",95
+tab-suspender,homepage,"Auto-suspend tabs to save memory. Great Suspender alternative that's malware-free and privacy-focused.",85
+tab-suspender,features,"Tab suspender with customizable rules, whitelist, and automatic memory optimization for Chrome.",88
+tab-suspender,pricing,"Free tab suspender saving GB of RAM. No tracking. Safe Great Suspender alternative for 2024.",85
+tab-suspender,comparison,"Zovo Tab Suspender vs The Great Suspender. No malware, better features, actively developed.",81
+tab-suspender,download,"Download Tab Suspender Pro. Save Chrome memory safely. Free Great Suspender alternative.",76
+quick-notes,homepage,"Simple notepad in your browser. Quick Notes extension for Chrome - always there when you need it.",84
+quick-notes,features,"Quick Notes with auto-save, search, folders, and sync. The simplest Chrome notepad extension.",82
+quick-notes,pricing,"Free Quick Notes extension. No tracking, no data collection. Simple browser notepad.",73
+quick-notes,comparison,"Quick Notes vs Google Keep. Simpler, faster, more private. Notepad for your browser.",78
+quick-notes,download,"Download Quick Notes for Chrome. Free, simple, private notepad extension in your browser.",82
+json-formatter,homepage,"Format and validate JSON with syntax highlighting. Best JSON formatter for Chrome developers.",82
+json-formatter,features,"JSON formatter with error detection, minify, pretty print, and color syntax highlighting.",79
+json-formatter,pricing,"Free JSON formatter for Chrome. No tracking, no data collection. JSONView alternative.",75
+json-formatter,comparison,"Zovo JSON Formatter vs JSONView. More features, better errors, actively maintained.",77
+json-formatter,download,"Download JSON Formatter for Chrome. Free, fast, secure. Best JSON viewer extension.",76
+password-generator,homepage,"Generate secure passwords instantly. Chrome password generator with customizable options.",77
+password-generator,features,"Password generator with strength meter, custom rules, and secure copy to clipboard.",73
+password-generator,pricing,"Free password generator for Chrome. No tracking, no storage. Maximum security.",68
+password-generator,comparison,"Password generator vs LastPass. Simpler, faster, no account required. Pure security.",75
+password-generator,download,"Download Password Generator for Chrome. Free, secure, no tracking. Create strong passwords.",77
+qr-code-generator,homepage,"Create QR codes from any text or URL instantly. Free QR code generator for Chrome.",76
+qr-code-generator,features,"QR generator with custom colors, sizes, and formats. Download as PNG or SVG instantly.",77
+qr-code-generator,pricing,"Free QR code generator for Chrome. No tracking, no limits. Create unlimited QR codes.",78
+qr-code-generator,comparison,"QR Generator vs online tools. Faster, more private, no uploads. Chrome extension convenience.",82
+qr-code-generator,download,"Download QR Code Generator for Chrome. Free, fast, secure. Create QR codes instantly.",76
+color-picker,homepage,"Pick colors from any webpage. Chrome color picker with hex, RGB, HSL values. ColorZilla alt.",80
+color-picker,features,"Color picker with eyedropper, palette manager, format conversion, and color history.",73
+color-picker,pricing,"Free color picker for Chrome. No tracking, no data collection. ColorZilla alternative.",74
+color-picker,comparison,"Zovo Color Picker vs ColorZilla. Simpler, faster, more private. Better for developers.",78
+color-picker,download,"Download Color Picker for Chrome. Free, accurate, private. Best color picker extension.",76
+word-counter,homepage,"Count words and characters anywhere on the web. Chrome word counter for writers and editors.",80
+word-counter,features,"Word counter with real-time counting, reading time, and character limit warnings.",72
+word-counter,pricing,"Free word counter for Chrome. No tracking, no data collection. Simple and accurate.",71
+word-counter,comparison,"Word counter vs online tools. Instant, always available, no copy-paste needed.",71
+word-counter,download,"Download Word Counter for Chrome. Free, fast, accurate. Count words anywhere online.",76
+unit-converter,homepage,"Convert units quickly in Chrome. Length, weight, temperature, and more. Free unit converter.",78
+unit-converter,features,"Unit converter with 50+ unit types, currency conversion, and calculation history.",73
+unit-converter,pricing,"Free unit converter for Chrome. No tracking, no data collection. Always available.",71
+unit-converter,comparison,"Unit converter vs online tools. Faster, more private, no internet required after install.",80
+unit-converter,download,"Download Unit Converter for Chrome. Free, comprehensive, offline-capable.",68
+clipboard-history,homepage,"Never lose copied text again. Chrome clipboard history manager with smart organization.",78
+clipboard-history,features,"Clipboard history with search, favorites, pinning, and automatic cleanup management.",74
+clipboard-history,pricing,"Free clipboard history for Chrome. No tracking, local storage only. Maximum privacy.",73
+clipboard-history,comparison,"Clipboard history vs built-in Chrome. Searchable, organized, never lose important copies.",78
+clipboard-history,download,"Download Clipboard History for Chrome. Free, secure, local-only. Manage your clipboard.",75

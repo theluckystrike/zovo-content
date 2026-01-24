@@ -1,0 +1,40 @@
+The last cookie manager you'll ever need for Chrome development and debugging.
+
+Since EditThisCookie was removed from the store, you need a reliable replacement that doesn't compromise on features or privacy. Zovo Cookie Manager handles everything you need - from basic viewing to advanced JWT decoding.
+
+✅ View all cookies with advanced filtering
+✅ Edit cookie values, domains, and paths
+✅ Bulk operations for multiple cookies
+✅ JWT token decoder built right in
+✅ Export cookies as JSON, CSV, or text
+✅ Import cookies from files
+✅ Search across all cookie data
+✅ Delete individual or bulk cookies
+✅ Session and persistent cookie support
+✅ HttpOnly, Secure, SameSite attribute editing
+
+PRIVACY FIRST
+- No tracking, no analytics, no data collection
+- All processing happens locally in your browser
+- No servers, no cloud storage, no privacy risks
+- Your cookies never leave your computer
+
+FOR DEVELOPERS
+- Perfect for API testing and debugging
+- JWT decoder shows header and payload
+- Export/import for test environments
+- Works with localhost and development domains
+- No permissions beyond what's necessary
+
+FOR PRIVACY-CONSCIOUS USERS
+- See exactly what websites store
+- Delete tracking cookies with one click
+- Export cookie data before clearing
+- Understand what data websites collect
+
+WHY ZOVO?
+We're building a suite of privacy-first Chrome extensions. No venture capital, no pressure to monetize your data. Just useful tools that work without compromising your privacy.
+
+Have a feature request? Visit us at zovo.one - we actually read and respond to every request.
+
+Note: This extension requires access to cookies on all websites to function properly. We don't store, transmit, or use any cookie data - we only provide the interface for you to manage your own cookies.

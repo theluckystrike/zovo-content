@@ -1,0 +1,17 @@
+Version 1.0.0 - Initial Release
+
+• Complete cookie management interface with viewing, editing, and deletion
+• Advanced search and filtering capabilities
+• JWT token decoder with header and payload display
+• Bulk operations for multiple cookie management
+• Export functionality (JSON, CSV, text formats)
+• Import cookies from files
+• Session and persistent cookie support
+• HttpOnly, Secure, SameSite attribute editing
+• Privacy-first design with no tracking or data collection
+• Developer-friendly features for debugging and testing
+• Regular expression search support
+• Cookie history and backup functionality
+• Cross-domain cookie management
+• Automatic cleanup options
+• Keyboard shortcuts for power users
