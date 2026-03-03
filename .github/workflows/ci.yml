@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check for broken markdown links
+        run: |
+          # Simple check: ensure markdown files don't have obvious broken link patterns
+          for f in $(find . -name "*.md" -type f); do
+            # Check for empty links
+            if grep -q '\[.*\]\(\s*\)' "$f"; then
+              echo "Error: Empty link in $f"
+              exit 1
+            fi
+          done
+          echo "✓ Markdown validation complete"
+      
+      - name: Check required directories exist
+        run: |
+          [ -d blog-posts ] || exit 1
+          [ -d store-listings ] || exit 1
+          [ -d seo ] || exit 1
+          echo "✓ Required directories exist"
