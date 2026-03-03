@@ -1,6 +1,12 @@
 # Zovo Chrome Extensions - Content Pack
 
-This comprehensive content pack contains all marketing, SEO, and documentation materials for Zovo's suite of privacy-first Chrome extensions.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub last commit](https://img.shields.io/github/last-commit/theLuckystrike/zovo-content)](https://github.com/theluckystrike/zovo-content)
+[![Discord](https://img.shields.io/badge/Discord-Zovo-blueviolet.svg?logo=discord)](https://discord.gg/zovo)
+[![Website](https://img.shields.io/badge/Website-zovo.one-blue)](https://zovo.one)
+[![GitHub Stars](https://img.shields.io/github/stars/theluckystrike/zovo-content?style=social)](https://github.com/theluckystrike/zovo-content)
+
+This comprehensive content pack contains all marketing, SEO, and documentation materials for [Zovo's](https://zovo.one) suite of privacy-first Chrome extensions.
 
 ## 📁 Structure Overview
 
@@ -18,6 +24,17 @@ zovo-content-pack/
 ```
 
 ## 🚀 Quick Start
+
+### Installation (Local Development)
+
+```bash
+# Clone the repository
+git clone https://github.com/theluckystrike/zovo-content.git
+cd zovo-content
+
+# Install dependencies (if any)
+npm install
+```
 
 ### For Immediate Use:
 1. **Chrome Web Store**: Copy content from `store-listings/` for each extension
@@ -147,6 +164,44 @@ For questions about this content pack or Zovo extensions:
 - Visit: [zovo.one](https://zovo.one)
 - Feature requests and feedback welcome
 - We actually read and respond to every message
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork** the repository
+2. **Create** a feature branch: `git checkout -b feature/content-improvement`
+3. **Make** your changes
+4. **Test** that all links work correctly
+5. **Commit** your changes: `git commit -m 'Add new content templates'`
+6. **Push** to the branch: `git push origin feature/content-improvement`
+7. **Submit** a Pull Request
+
+### Content Guidelines
+
+- Maintain brand voice consistency (direct, privacy-first, practical)
+- Follow SEO best practices outlined in `seo/` folder
+- Test all links before submitting
+- Ensure proper formatting for each content type
+
+## See Also
+
+### Related Zovo Repositories
+
+- [zovo-extension-template](https://github.com/theluckystrike/zovo-extension-template) - Boilerplate for building privacy-first Chrome extensions
+- [zovo-types-webext](https://github.com/theluckystrike/zovo-types-webext) - Comprehensive TypeScript type definitions for browser extensions
+- [zovo-chrome-extensions](https://github.com/theluckystrike/zovo-chrome-extensions) - Collection of Zovo Chrome extensions
+- [zovo-indexer](https://github.com/theluckystrike/zovo-indexer) - Indexing service for Zovo extensions
+- [zovo-permissions-scanner](https://github.com/theluckystrike/zovo-permissions-scanner) - Privacy scanner for Chrome extensions
+- [zovo-tab-suspender-public](https://github.com/theluckystrike/zovo-tab-suspender-public) - Memory-saving tab suspenders
+
+### Zovo Chrome Extensions
+
+- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
+
+Visit [zovo.one](https://zovo.one) for more information about Zovo products.
 
 ## 📄 License
 
