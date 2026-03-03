@@ -15,10 +15,10 @@ jobs:
       
       - name: Check for broken markdown links
         run: |
-          # Simple check: ensure markdown files don't have obvious broken link patterns
+          # Check for empty links: [text]()
           for f in $(find . -name "*.md" -type f); do
-            # Check for empty links
-            if grep -q '\[.*\]\(\s*\)' "$f"; then
+            # Match ]() pattern - empty link
+            if grep -qE '\]\(\)' "$f"; then
               echo "Error: Empty link in $f"
               exit 1
             fi
